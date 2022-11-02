@@ -16,4 +16,4 @@ const proudOfThisFunc = () => {
 
 ### Useful resources
 
-- [JavaScript course](https://www.youtube.com/watch?v=YaAkV--25fg&t=192s) - This helped me write more readable css and html code. I really liked this methodology and will use it going forward.
+- [JavaScript course](https://www.youtube.com/watch?v=YaAkV--25fg&t=192s) - This course helped me understand the basics of javascript and more.
